@@ -1,0 +1,12 @@
+{
+  "journeys": [
+    {
+      "id": "synthetic-a",
+      "date": "2026-01-01",
+      "origin": "合成起点",
+      "destination": "合成终点",
+      "duration_minutes": 60,
+      "distance_nm": 10
+    }
+  ]
+}
